@@ -26,4 +26,4 @@ set(COMPONENT_ADD_INCLUDEDIRS ".")
 
 register_component()
 
-component_compile_options(-std=c++17)
+component_compile_options(-std=gnu++17)
